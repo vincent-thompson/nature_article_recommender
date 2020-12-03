@@ -8,16 +8,16 @@ Now more than ever it is important for everyone to stay current on events in the
 
 ### Data Used
 
--Scraped 30,000 news articles from [Nature](https://www.nature.com) dating back to 1998.  
--Built a custom NLP pipeline with corpus-specific stop words to process article text
+- Scraped 30,000 news articles from [Nature](https://www.nature.com) dating back to 1998. 
+- Built a custom NLP pipeline with corpus-specific stop words to process article text
 
 ### Tools Used
 
--Python
--BeautifulSoup: Web scraping
--NumPy and Pandas: Data structures
--NLTK and SpaCy: text preprocessing
--Scikit-learn: TF-IDF vectorizer
--Non-Negative Matrix Factorization: Topic Modeling
--Dash/Plotly: Interactive web app
--Heroku: App deployment
+- Python
+- BeautifulSoup: Web scraping
+- NumPy and Pandas: Data structures
+- NLTK and SpaCy: text preprocessing
+- Scikit-learn: TF-IDF vectorizer
+- Non-Negative Matrix Factorization: Topic Modeling
+- Dash/Plotly: Interactive web app
+- Heroku: App deployment
